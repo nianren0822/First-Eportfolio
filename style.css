@@ -172,6 +172,7 @@ nav {
 .language__img {
   width: 100%;
   max-width: 100px;
+  transition: 300ms ease;
 }
 
 .language {
